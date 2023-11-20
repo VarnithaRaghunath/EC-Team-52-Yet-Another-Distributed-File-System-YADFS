@@ -8,7 +8,7 @@
 2.cd into directory containing repository \
 3.Run 
 ```sh
-docker pull hemabhushan/yadfs-node
+docker pull VarnithaRaghunath/yadfs-node
 ```
 4.(Use only to build docker image from Dockerfile)  Ignore this step if image is pulled through docker hub
 ```sh
